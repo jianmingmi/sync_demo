@@ -12,7 +12,7 @@ openvela 采用 Apache License 2.0 许可证。
 
 您必须签署贡献者许可协议才能做出贡献。
 
-[ [个人版](https://open-vela.cnbj1.mi-fds.com/open-vela/cla/Xiaomi_Documentation_Open_Source_Individual_CLA.pdf) | [企业版](https://open-vela.cnbj1.mi-fds.com/open-vela/cla/Xiaomi_Documentation_Open_Source_Corporate_CLA.pdf) ]
+\[ [个人版](https://open-vela.cnbj1.mi-fds.com/open-vela/cla/Xiaomi_Documentation_Open_Source_Individual_CLA.pdf) | [企业版](https://open-vela.cnbj1.mi-fds.com/open-vela/cla/Xiaomi_Documentation_Open_Source_Corporate_CLA.pdf) \]
 
 错误报告
 -------
